@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_vinjex" target="blank"><img src="https://img.shields.io/twitter/follow/_vinjex?logo=twitter&style=for-the-badge" alt="_vinjex" /></a> </p>
 
-- 🔭 I’m currently working on [Vin-Jex Personal Website](https://vinjex.com)
+- 🔭 I’m currently working on [Vin-Jex Personal Website](https://vinjex.co)
 
 - 🤝🌱 I'm currently expanding my expertise by exploring **Flutter**
 
@@ -15,13 +15,13 @@
 
 - 🤝 I'm seeking guidance and support **to excel in my career within esteemed tech companies like Microsoft, Google, Twitter, or other leading firms**
 
-- 👨‍💻 All of my public projects are available at [https://vinjex.com](https://vinjex.com)
+- 👨‍💻 All of my public projects are available at [https://vinjex.com](https://vinjex.co)
 
 - 💬 Ask me about **React, NextJs, Express, MongoDB, Dart and Flutter**
 
 - 📫 How to reach me **vincentcode0@gmail.com**
 
-- 📄 Know about my experiences [https://vinjex.com/about-me](https://vinjex.com/about-me)
+- 📄 Know about my experiences [https://vinjex.com/about-me](https://vinjex.co/about-me)
 
 - ⚡ Fun fact **I'm a self-taught Frontend Engineer & Mobile App Developer who can turn coffee into code! ☕💻**
 
